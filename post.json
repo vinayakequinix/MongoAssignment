@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Post Title 1",
+    "body": "Body of post 1.",
+    "category": "News",
+    "likes": 1,
+    "tags": ["news", "events"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 2,
+    "title": "Post Title 2",
+    "body": "Body of post 2.",
+    "category": "Technology",
+    "likes": 5,
+    "tags": ["tech", "innovation"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 3,
+    "title": "Post Title 3",
+    "body": "Body of post 3.",
+    "category": "Sports",
+    "likes": 3,
+    "tags": ["sports", "events"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 4,
+    "title": "Post Title 4",
+    "body": "Body of post 4.",
+    "category": "Entertainment",
+    "likes": 2,
+    "tags": ["movies", "celebrities"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 5,
+    "title": "Post Title 5",
+    "body": "Body of post 5.",
+    "category": "Travel",
+    "likes": 4,
+    "tags": ["adventure", "vacation"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 6,
+    "title": "Post Title 6",
+    "body": "Body of post 6.",
+    "category": "Food",
+    "likes": 2,
+    "tags": ["recipes", "restaurants"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 7,
+    "title": "Post Title 7",
+    "body": "Body of post 7.",
+    "category": "Health",
+    "likes": 3,
+    "tags": ["fitness", "nutrition"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 8,
+    "title": "Post Title 8",
+    "body": "Body of post 8.",
+    "category": "Fashion",
+    "likes": 1,
+    "tags": ["style", "trends"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 9,
+    "title": "Post Title 9",
+    "body": "Body of post 9.",
+    "category": "Education",
+    "likes": 2,
+    "tags": ["learning", "study"],
+    "date": "2023-02-21T08:24:13.167Z"
+  },
+  {
+    "id": 10,
+    "title": "Post Title 10",
+    "body": "Body of post 10.",
+    "category": "Business",
+    "likes": 4,
+    "tags": ["entrepreneurship", "startups"],
+    "date": "2023-02-21T08:24:13.167Z"
+  }
+]
